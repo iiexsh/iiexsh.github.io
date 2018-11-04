@@ -1,4 +1,0 @@
-site_name: 信工所青年团员大学习专栏
-theme:
-    name: mkdocs
-    custom_dir: theme_journal/
